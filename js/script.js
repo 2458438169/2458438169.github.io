@@ -42,7 +42,7 @@
                 artist: '周杰伦',
                 album: '八度空间',
                 cover: 'img/暗号- 周杰伦.jpg',
-                mp3: 'mp3/周杰伦 - 暗号.FLAC',
+                mp3: 'mp3/周杰伦 - 暗号.mp3',
                 ogg: ''
             },
             {
