@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>欢迎来到我的音乐世界</title>
@@ -32,25 +32,16 @@
 <!--效果html开始-->
 
 
-<!--
 		 <div class=" bg-dark head">
 
 		<nav class="container navbar navbar-expand-sm ">
 			<ul class="navbar-nav container bg-dark hidden-xs-nav">
-				<img src="img/logo.png" alt="" width="50px" height="50px"
-					 title="莫客博客 - POWERED BY WY ALL RIGHTS RESERVED">
-				<li class="active"><a href="../index.html"><span class="glyphicon glyphicon-home"></span>网站首页&nbsp;</a></li>
-				<li><a href=""><span class="glyphicon glyphicon-erase"></span>网站前端&nbsp;</a></li>
-				<li><a href=""><span class="glyphicon glyphicon-inbox"></span>后端技术&nbsp;</a></li>
-				<li><a href=""><span class="glyphicon glyphicon-globe"></span>管理系统&nbsp;</a></li>
-				<li><a href="about.html"><span class="glyphicon glyphicon-user"></span>关于我们&nbsp;</a></li>
-				<li><a href="friendly.html"><span class="glyphicon glyphicon-tags"></span>友情链接&nbsp;</a></li>
+				<li class="active"><a href="../index.jsp"><span class="glyphicon glyphicon-home"></span>网站首页&nbsp;</a></li>
+				<li><a href="about.jsp"><span class="glyphicon glyphicon-user"></span>关于我们&nbsp;</a></li>
 			</ul>
 		</nav>
 
 	</div> 
--->
-
 
 
 <div id="background"></div>
